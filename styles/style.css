@@ -234,7 +234,6 @@ input[type="checkbox"]:checked ~ .search-form__pseudo-checkbox::before {
   border: 1px black solid;
   width: 15px;
   height: 15px;
-  position: absolute;
   top: 1px;
   left: 1px;
 }
